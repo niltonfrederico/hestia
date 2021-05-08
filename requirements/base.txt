@@ -1,0 +1,6 @@
+fastapi==0.64.0
+environs==9.3.2
+peewee==3.14.4
+requests==2.25.1
+
+uvicorn==0.13.4
